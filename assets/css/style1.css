@@ -1,10 +1,10 @@
 
 body{
-    background-color: rgb(63, 119, 100);
+    background-color: rgb(49, 74, 78);
 }
 
 .test1 {
-    background-color: rgb(45, 109, 58);
+    background-color: rgb(89, 124, 141);
     width: 1000px;
     height: 237px;
     margin: auto;
@@ -88,8 +88,8 @@ body{
 
 .background1{
     color: white;
-    padding-left: 518px;
-    width: 300px;
+    padding-left: 462px;
+    width: 673px;
     height: 300px;
 }
 
@@ -99,3 +99,55 @@ body{
     margin: 195px;
 
 }
+
+.leght1{
+    height: 9px;
+}
+
+.background1 span{
+    font-size: large;
+}
+
+
+.text1{
+    color: white;
+    padding-left: 537px;
+    width: 242px;
+    height: 300px;
+}
+
+.text1 sub{
+    font-size: xx-large;
+}
+
+
+.text2{
+    color: white;
+    padding-left: 98px;
+    width: 269px;
+    height: 294px;
+}
+
+.text3{
+
+    display: flex;
+}
+
+
+#barrner{
+
+    background-image: url(../css/img/image.jpg);
+    width: 874px;
+    height: 155px;
+    border: 1px solid black;
+    background-size: cover;
+    padding: 30px;
+    margin-left: 175px;
+    margin-left: 198px;
+}
+
+
+.barner-text{
+    color: white;
+}
+
